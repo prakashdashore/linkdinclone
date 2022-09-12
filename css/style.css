@@ -263,52 +263,58 @@ body {
     color: rgb(142, 138, 138);
 }
 
-.bold{
-    font-weight:800;
-    /* font-size: 1vw; */
-    color: red;
-}
-
 @media screen and (max-width:500px) {
 
     #self_name {
         font-weight: 700;
 
     }
-    #analytics{
+
+    #bold{
+        font-weight: 600;
+    }
+
+    #analytics {
         font-weight: 700;
 
 
     }
-    #resources{
-        font-weight: 700;
-    }
-    #acti{
-        font-weight: 700;
 
-        
+    #resources {
+        font-weight: 700;
     }
-    #about{
+
+    #acti {
         font-weight: 700;
 
 
     }
-    #edu{
+
+    #about {
         font-weight: 700;
 
 
     }
-    #slil{
-        font-weight: 700;
 
-        
-    }
-    #leng{
+    #edu {
         font-weight: 700;
 
 
     }
-    #intre{
+
+    #slil {
+        font-weight: 700;
+
+
+    }
+
+    #leng {
+        font-weight: 700;
+
+
+    }
+
+    #intre {
         font-weight: 700;
 
 
