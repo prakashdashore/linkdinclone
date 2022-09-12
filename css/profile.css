@@ -1,0 +1,15 @@
+::-webkit-scrollbar {
+    display: none;
+    width: 0.6rem;
+}
+
+html::-webkit-scrollbar-track {
+    background: #F3F2EF;
+
+}
+
+html::-webkit-scrollbar-thumb {
+    /* border-radius: 40px; */
+    background: #cac8c9;
+}
+
