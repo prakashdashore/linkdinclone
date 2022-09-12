@@ -628,15 +628,15 @@ header {
     margin: auto;
     border-radius: 50px;
     /* padding-top: 3px; */
-    font-weight: 500;
+    font-weight:bolder;
 }
 
 .see_my_profil:hover {
-    background: rgba(0, 0, 255, 0.059);
+    background: rgba(0, 0, 177, 0.167);
 }
 
 .see_my_profil a {
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: #196dc2;
 }
 
