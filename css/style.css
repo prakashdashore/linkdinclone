@@ -2920,9 +2920,11 @@ select {
     width: 19.33%;
     height: 12.7rem;
     font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
     display: flex;
     flex-direction: column;
-    border-radius: 0.7rem;
+    border-radius: 1rem;
     background-color: #ffffff;
     align-items: center;
     padding-top: 1rem;
@@ -2931,7 +2933,11 @@ select {
 .not_left-container h6 {
     font-size: 1.2rem;
     font-weight: 500;
+    margin-left: 4rem;
     padding-bottom: 0.5rem;
+}
+.not_left-container h6:hover{
+    text-decoration: underline;
 }
 
 .not_left-container p:nth-of-type(1) {
